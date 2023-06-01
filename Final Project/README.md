@@ -21,7 +21,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing the Add to cart module from the OpenCart application. 
+The Test Plan is designed to describe all details of testing the Add product to cart module from the OpenCart application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
@@ -45,17 +45,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the Add to cart module
+* exploratory regression testing must be performed on the Add product to cart module
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the features of Add to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing ???
-* __Tests not in scope:__ performance testing, integrations of the Add to cart module with other modules, compatibility testing with multiple browsers
+* __Tests in scope:__ All the features of Add product to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing ???
+* __Tests not in scope:__ performance testing, integrations of the Add product to cart module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
-* Product risks: The Add to cart module does not perform according to the requirements.
+* Product risks: The Add product to cart module does not perform according to the requirements.
 
 #### 1.1.6 Evaluating entry criteria
 
