@@ -21,7 +21,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the Dependants module from the (de completat NAME) application. 
+The Test Plan is designed to describe all details of testing the Add to cart module from the OpenCart application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
