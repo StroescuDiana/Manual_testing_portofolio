@@ -1,6 +1,6 @@
 # Practice Project Manual Testing
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
 Application under test: (de completat)
 
