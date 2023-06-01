@@ -27,10 +27,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-* Project manager - (de completat)
-* Product owner - (de completat)
-* Software developer - (de completat)
-* QA Engineer - (de completat)
+* Project manager - Stroescu Diana-Lavinia
+* Product owner - Stroescu Diana-Lavinia
+* Software developer - Stroescu Diana-Lavinia
+* QA Engineer - Stroescu Diana-Lavinia
 
 #### 1.1.2 Entry criteria defined
 
@@ -45,17 +45,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
+* exploratory regression testing must be performed on the Add to cart module
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
-* __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+* __Tests in scope:__ All the features of Add to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing ???
+* __Tests not in scope:__ performance testing, integrations of the Add to cart module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
-* Product risks: validation constraints on the fields might be too restrictive to the end-user
+* Product risks: The Add to cart module does not perform according to the requirements.
 
 #### 1.1.6 Evaluating entry criteria
 
