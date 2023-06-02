@@ -86,7 +86,7 @@ are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
 
-![image](https://user-images.githubusercontent.com/99291143/163688901-26234e0a-abfa-4034-93bf-bca37ad2b50c.png)
+<img width="803" alt="2023-06-02_22h15_40" src="https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/fb2c83a6-2f78-44b5-bbd5-67ad9ff911c8">
 
 
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_test_cases.pdf)
