@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. 
+The below Story was created in JIRA and describes the functional specifications of the Add product to cart module, for which the final project is performed upon. 
 
 <img width="1014" alt="2023-06-01_10h38_57" src="https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/7ae8f888-8f36-40cd-8ca1-4ebae83526ee">
 
