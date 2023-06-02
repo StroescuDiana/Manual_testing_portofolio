@@ -27,9 +27,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-* Project manager - Stroescu Diana-Lavinia
-* Product owner - Stroescu Diana-Lavinia
-* Software developer - Stroescu Diana-Lavinia
+* Project manager - Sylvia Gould
+* Product owner - Oliwia Romero
+* Software developer - Cory John
 * QA Engineer - Stroescu Diana-Lavinia
 
 #### 1.1.2 Entry criteria defined
