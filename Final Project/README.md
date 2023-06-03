@@ -94,11 +94,29 @@ The test cases with steps can be viewed here: [Functional test cases](https://gi
 For the Simple Books API, the following checklist was generated: 
 
 
-| GET /orders/:orderId                                            | PATCH /orders/:orderId                                                      | DELETE /orders/:orderId  |
-| -------------                                                   |:-------------:                                                              | -----:|
-| Verify if an order is returned                                  | Verify if customerName can be updated                                       | Verify if an order can be deleted             |
-| Verify if an invalid orderId gives error code                   | Verify if customerName can be updated with numbers and special characters   |   Verify if an invalid orderId can be deleted |
-| Verify if an invalid orderId gives incorrect orderId message    | Verify if customerName can be updated by leaving it empty                   |    Verify if an empty orderId can be deleted  |
+<table>
+  <tr>
+    <th style="width: 100%;">GET /orders/:orderId</th>
+    <th style="width: 100%;">PATCH /orders/:orderId</th>
+    <th style="width: 100%;">DELETE /orders/:orderId</th>
+  </tr>
+  <tr>
+    <td>Verify if an order is returned</td>
+    <td>Verify if customerName can be updated</td>
+    <td>Verify if an order can be deleted</td>
+  </tr>
+  <tr>
+    <td>Verify if an invalid orderId gives error code</td>
+    <td>Verify if customerName can be updated with numbers and special characters</td>
+    <td>Verify if an invalid orderId can be deleted</td>
+  </tr>
+  <tr>
+    <td>Verify if an invalid orderId gives incorrect orderId message</td>
+    <td>Verify if customerName can be updated by leaving it empty</td>
+    <td>Verify if an empty orderId can be deleted</td>
+  </tr>
+</table>
+
 
 
 ## 1.5 Test Implementation
