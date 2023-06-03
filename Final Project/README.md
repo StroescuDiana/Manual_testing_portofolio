@@ -129,9 +129,9 @@ The following elements are needed to be ready before the test execution phase be
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
-* Test execution chart was generated, the final report shows that a number (de completat) tests have failed of a total of (de completat) 
-* A number of (de completat) test cases were planned for execution and all of them were executed
-* A number of (de completat) total bugs were found, from which the priority is: (de completat) is high, (de completat) are medium and (de completat) is low
+* Test execution chart was generated, the final report shows that a number of 11 tests have failed of a total of 19. 
+* A number of 19 test cases were planned for execution and all of them were executed.
+* A number of 11 bugs were found, from which the priority is: 2 are highest, 3 are high, 5 are medium and 1 is low.
 
 ![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
 
