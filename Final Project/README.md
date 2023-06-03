@@ -122,7 +122,7 @@ The following elements are needed to be ready before the test execution phase be
     *  Unable to add product from homepage to shopping cart.
     *  In the register form the error messages for each field does not appear when criterias aren't met.
     *  User cannot search the item in the search box.
-* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Simple Books API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
+* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Simple Books API](https://github.com/StroescuDiana/manual_testing_portofolio/blob/main/Final%20Project/Simple%20Books%20API.postman_collection.json)
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
