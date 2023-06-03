@@ -128,12 +128,14 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
+* The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/2fda74d5-17a7-4ccc-980f-fac6d7002223)
+
+
 * Test execution chart was generated, the final report shows that a number of 11 tests have failed of a total of 19. 
 * A number of 19 test cases were planned for execution and all of them were executed.
 * A number of 11 bugs were found, from which the priority is: 2 are highest, 3 are high, 5 are medium and 1 is low.
 
-![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
+<img width="1837" alt="2023-06-03_23h17_53" src="https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/8053db85-504e-4fd0-a5d3-5eeb215721d4">
 
 
 # 2 SQL section
