@@ -64,7 +64,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
-The following status report was generated after 100% of the test cases were executed, on 2nd of June:
+The following status report was generated after 60% of the test cases were executed, on 2nd of June:
 
 <img width="810" alt="2023-06-02_21h54_57" src="https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/fd3ba422-0c05-4a6e-9888-0de20b86f195">
 
@@ -91,7 +91,14 @@ are boundary value analysis, equivalence partitioning and use case testing.
 The test cases with steps can be viewed here: [Functional test cases](https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/8620641c-a76e-447e-80e1-2473dbee65f1)
 
 
-For the Simple Books API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/API_test_checklist.csv)
+For the Simple Books API, the following checklist was generated: 
+
+
+| GET /orders/:orderId                                            | PATCH /orders/:orderId                                                      | DELETE /orders/:orderId  |
+| -------------                                                   |:-------------:                                                              | -----:|
+| Verify if an order is returned                                  | Verify if customerName can be updated                                       | Verify if an order can be deleted             |
+| Verify if an invalid orderId gives error code                   | Verify if customerName can be updated with numbers and special characters   |   Verify if an invalid orderId can be deleted |
+| Verify if an invalid orderId gives incorrect orderId message    | Verify if customerName can be updated by leaving it empty                   |    Verify if an empty orderId can be deleted  |
 
 
 ## 1.5 Test Implementation
