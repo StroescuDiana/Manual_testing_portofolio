@@ -23,7 +23,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 The Test Plan is designed to describe all details of testing the Add product to cart module from the OpenCart application. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
@@ -50,11 +50,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.4 Test scope
 
 * __Tests in scope:__ All the features of Add product to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
-* __Tests not in scope:__ performance testing, integrations of the Add product to cart module with other modules, compatibility testing with multiple browsers
+* __Tests not in scope:__ performance testing, integrations of the Add product to cart module with other modules, compatibility testing with multiple browsers.
 
 #### 1.1.5 Risks detected
 
-* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+* Project risks: Lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment.
 * Product risks: The Add product to cart module does not perform according to the requirements.
 
 #### 1.1.6 Evaluating entry criteria
