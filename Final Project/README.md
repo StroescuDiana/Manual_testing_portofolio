@@ -94,28 +94,11 @@ The test cases with steps can be viewed here: [Functional test cases](https://gi
 For the Simple Books API, the following checklist was generated: 
 
 
-<table>
-  <tr>
-    <th style="width: 100%;">GET /orders/:orderId</th>
-    <th style="width: 100%;">PATCH /orders/:orderId</th>
-    <th style="width: 100%;">DELETE /orders/:orderId</th>
-  </tr>
-  <tr>
-    <td>Verify if an order is returned</td>
-    <td>Verify if customerName can be updated</td>
-    <td>Verify if an order can be deleted</td>
-  </tr>
-  <tr>
-    <td>Verify if an invalid orderId gives error code</td>
-    <td>Verify if customerName can be updated with numbers and special characters</td>
-    <td>Verify if an invalid orderId can be deleted</td>
-  </tr>
-  <tr>
-    <td>Verify if an invalid orderId gives incorrect orderId message</td>
-    <td>Verify if customerName can be updated by leaving it empty</td>
-    <td>Verify if an empty orderId can be deleted</td>
-  </tr>
-</table>
+| GET /orders/:orderId                                              | PATCH /orders/:orderId                                                      | DELETE /orders/:orderId                        |
+| ----------------------------------------------------------------  | --------------------------------------------------------------------------  | -------------------------------------------- |
+| Verify if an order is returned                                    | Verify if customerName can be updated                                       | Verify if an order can be deleted             |
+| Verify if an invalid orderId gives error code                     | Verify if customerName can be updated with numbers and special characters   | Verify if an invalid orderId can be deleted    |
+| Verify if an invalid orderId gives incorrect orderId message      | Verify if customerName can be updated by leaving it empty                   | Verify if an empty orderId can be deleted     |
 
 
 
@@ -123,28 +106,28 @@ For the Simple Books API, the following checklist was generated:
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* Testing environment is up and running: (de completat)
-* Access to the testing environment is given: Username : Admin | Password : admin123
-* Cycle summary was created 
-* Test cases were added to the cycle summary
-* Postman collection with the dependents API methods was created 
-* Authorization token was created for accessing the API
+* Testing environment is up and running: https://demo.opencart.com/
+* Cycle summary was created.
+* Test cases were added to the cycle summary.
+* Postman collection with the API methods was created. 
+* Authorization token was created for accessing the API.
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_cycle_summary_execution.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_created_bugs.pdf)
-    *  Date format is not dd/mm/yyyy
-    *  Future "Date of Birth" can be selected from calendar
-    *  Only 50 characters are allowed for "Please Specify" field
-    *  Only 50 characters are allowed for "Name" field
-    *  Relationship "parent" is missing
-* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
-* Full regression testing is needed after the bugs are fixed
+* Test cases are executed on the created test Cycle summary: [Functional test cases](https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/8620641c-a76e-447e-80e1-2473dbee65f1)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bug reports](https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/6163221c-fb54-4a03-9439-5c36aec7a28a)
+
+    *  Products are not aligned correctly on the homepage's featured products.
+    *  User is able to register an account with non-letter characters(numbers, special characters) in the name field.
+    *  Unable to add product from homepage to shopping cart.
+    *  In the register form the error messages for each field does not appear when criterias aren't met.
+    *  User cannot search the item in the search box.
+* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Simple Books API](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/OrangeHRM%20API%20-%20Dependents.postman_collection.json)
+* Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
 
-* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Traceability_matrix.xlsx)
 * Test execution chart was generated, the final report shows that a number (de completat) tests have failed of a total of (de completat) 
 * A number of (de completat) test cases were planned for execution and all of them were executed
