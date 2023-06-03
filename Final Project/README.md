@@ -49,7 +49,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the features of Add product to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing ???
+* __Tests in scope:__ All the features of Add product to cart module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
 * __Tests not in scope:__ performance testing, integrations of the Add product to cart module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
@@ -71,13 +71,12 @@ The following status report was generated after 100% of the test cases were exec
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter data only for mandatory fields and check that the dependant is created/updated
- * Enter data for all available fields and check that the dependant is created/updated
- * Leave mandatory fields empty and check that the dependant cannot be created/updated
- * View dependant details and check they are correct
- * View all dependants in a list
- * Check all validation constraints for the fields
+The testing process will be executed based on the above requirements for the Add to cart module. The following test conditions were found:
+ * Any product available on the website can be added to the cart.
+ * When a user opens the website, the cart feature is easy to find and use.
+ * In the cart page, each product added has the name and price displayed.
+ * The cart can store multiple products.
+ * With each product added, the cart is able to calculate the total price.
 
 ## 1.4 Test Design
 
@@ -89,9 +88,10 @@ are boundary value analysis, equivalence partitioning and use case testing.
 <img width="803" alt="2023-06-02_22h15_40" src="https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/fb2c83a6-2f78-44b5-bbd5-67ad9ff911c8">
 
 
-The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/Dependents_test_cases.pdf)
+The test cases with steps can be viewed here: [Functional test cases](https://github.com/StroescuDiana/manual_testing_portofolio/assets/129664856/8620641c-a76e-447e-80e1-2473dbee65f1)
 
-For the Dependants API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/API_test_checklist.csv)
+
+For the Simple Books API, the following checklist was generated: [API_test_checklist.csv](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/API_test_checklist.csv)
 
 
 ## 1.5 Test Implementation
