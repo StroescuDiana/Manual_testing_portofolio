@@ -139,6 +139,4 @@ The following elements are needed to be ready before the test execution phase be
 
 
 # 2 SQL section
-
-Created a database named '(de completat)' and a table named '(de completat)' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/dependents.sql)
-
+[Here](https://github.com/StroescuDiana/MySQL-Database) you will find a comprehensive showcase of fundamental database management skills using MySQL Workbench.
